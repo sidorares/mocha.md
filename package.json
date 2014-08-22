@@ -19,7 +19,10 @@
   "author": "Andrey Sidorov <sidorares@yandex.com>",
   "license": "MIT",
   "dependencies": {
+    "convert-source-map": "^0.4.1",
+    "esprima": "^1.2.2",
     "marked": "^0.3.2",
+    "source-map": "^0.1.38",
     "source-map-support": "^0.2.7"
   },
   "devDependencies": {

@@ -1,7 +1,6 @@
 var fs = require('fs');
 
 var marked  = require('marked');
-var markdown  = require('markdown').markdown;
 var esprima = require('esprima');
 var SourceMapGenerator = require('source-map').SourceMapGenerator;
 var convert = require('convert-source-map');
