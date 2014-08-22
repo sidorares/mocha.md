@@ -1,0 +1,29 @@
+{
+  "name": "mocha.md",
+  "version": "0.1.0",
+  "description": "Write your mocha tests in Markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sidorares/mocha.md.git"
+  },
+  "keywords": [
+    "mocha",
+    "markdown",
+    "test",
+    "runner"
+  ],
+  "author": "Andrey Sidorov <sidorares@yandex.com>",
+  "license": "MIT",
+  "dependencies": {
+    "marked": "^0.3.2",
+    "source-map-support": "^0.2.7"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
+  }
+}
