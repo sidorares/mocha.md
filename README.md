@@ -8,3 +8,8 @@ mocha.md
 ========
 
 WIP. Mocha tests compiler from Markdown to JavaScript
+
+
+## See also
+
+https://github.com/anko/tests-ex-markdown
