@@ -7,6 +7,8 @@
 mocha.md
 ========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sidorares/mocha.md.svg)](https://greenkeeper.io/)
+
 WIP. Mocha tests compiler from Markdown to JavaScript
 
 
